@@ -43,3 +43,14 @@ gem 'bootstrap-sass'
 
 gem 'devise'
 #Use devise for autheticating users 
+
+gem 'less-rails-bootstrap'
+#Used for styling with CSS and Twitter Bootstrap
+
+gem 'therubyracer'
+#Used to embed JavaScript V8 into ruby
+
+gem 'masonry-rails', '~> 0.2.0'
+#Use masonry for cascading grid layout depending on available vertical space
+
+gem 'jquery-turbolinks'
